@@ -86,7 +86,7 @@ This approach made large-volume extraction more manageable and significantly red
 
 ## AI-Assisted Development
 
-I did not have prior VB scripting expertise.
+VBScript was not my primary development language, so I used AI as a development assistant to accelerate implementation while retaining ownership of the requirements, logic, testing and validation.
 
 I used AI as a development assistant to help create the VB Script required for the automation.
 
@@ -151,7 +151,7 @@ The solution:
 * Reduced manual data extraction work
 * Reduced repetitive time and effort
 * Automated a previously manual process
-* Made very large datasets available in SQL Server within minutes in the implemented environment
+* Significantly reduced the time and manual effort required to make large datasets available in SQL Server.
 * Supported downstream analytics
 * Made extraction failures easier to identify
 * Created a more repeatable extraction process
