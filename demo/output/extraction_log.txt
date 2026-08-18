@@ -1,0 +1,23 @@
+FICTIONAL DATA EXTRACTION DEMONSTRATION
+======================================
+Input file: orders.csv
+
+Processing Chunk 1...
+Chunk 1 completed successfully.
+Records processed: 3
+
+Processing Chunk 2...
+Chunk 2 completed successfully.
+Records processed: 3
+
+Processing Chunk 3...
+Chunk 3 completed successfully.
+Records processed: 3
+
+Processing Chunk 4...
+Chunk 4 completed successfully.
+Records processed: 1
+
+Extraction completed successfully.
+Total records processed: 10
+Output file: extracted_orders.csv
